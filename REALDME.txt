@@ -1,0 +1,9 @@
+Implementação da rede perceptron em linguagem python 2.7 para reconhecimento de padrões
+da base de dados íris.
+
+base de dados wine ainda em implementação
+
+
+
+
+Thiago Giroto Milani
